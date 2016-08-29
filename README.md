@@ -6,6 +6,7 @@ Implement cube Panorama by using JAPanoView。
 
 (基於iOS Framework實現）
 
+(Creat date: 2015/3/30)
 
 ## Introduce ##
 > Resource 檔案夾：專案中使用到的圖片兒。
